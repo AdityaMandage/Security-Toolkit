@@ -14,6 +14,15 @@ Inspired by [rng70/TryHackMe-Roadmap](https://github.com/rng70/TryHackMe-Roadmap
 
 ## How to Use
 
+#### **# Visit below link and use directly [Go-to-link](https://adityamandage.github.io/Security-Toolkit/Resources/TryHackMe%20Rooms%20(Free)/)**
+
+```
+https://adityamandage.github.io/Security-Toolkit/Resources/TryHackMe%20Rooms%20(Free)/
+```
+
+
+#### **# If you want to set it up locally**
+
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/AdityaMandage/tryhackme-roadmap.git
