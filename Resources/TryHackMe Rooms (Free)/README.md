@@ -38,7 +38,7 @@ If you discover any additional free rooms not included in the list or have sugge
 
 3. **Report Issues**: If you encounter any bugs or problems with the checklist, please report them by opening an issue on GitHub.
 
-## Need Help
+## Need Help !
 
 Go through the html file and json file. As you may have noticed the room's data that I have added is hardcoded into the code itself, what I want is that it should use it from `tryhackmeRooms.json`. Help me solve this problem. How to use data directly from .json file instead of adding data in code.
 
