@@ -1,4 +1,4 @@
-# Security-Tools
+# Security-Toolkit
 
 This repository is currently in its initial stages and under development. Our goal is to create a comprehensive set of security tools (not exactly security tools but also scripts to automate processes, guides to use existing tools, resources, etc.) as part of an ongoing learning journey in cybersecurity, scripting, and how things work.
 
