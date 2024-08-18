@@ -1,17 +1,23 @@
 # Security-Toolkit
 
-This repository is currently in its initial stages and under development. Our goal is to create a comprehensive set of security tools (not exactly security tools but also scripts to automate processes, guides to use existing tools, resources, etc.) as part of an ongoing learning journey in cybersecurity, scripting, and how things work.
+_\*This repository is currently in its initial stages and under development.\*_
 
-## Tools in Development
+Our goal is to create a comprehensive collection of security tools, scripts to automate processes, guides, resources, etc. related to cybersecurity and its related domains.
 
-1. **Email Header Analyzer**: Our first tool, currently being developed. It will parse and analyze email headers to extract crucial information and perform geolocation on IP addresses.
+### Current Repo Structure
 
-*(More tools will be added as they are developed)*
+```
+Guides
+  |....
+
+Tools and scripts
+  |....
+
+Resources
+  |.....
+```
 
 ## Contributing
 
-Contributions to any of the tools or ideas for new tools are welcome! Please feel free to submit pull requests or open issues to discuss potential improvements or additions.
+Contributions to any of the tools or ideas for new tools, guides and resources for all levels related to cybersecurity and it's any domain are welcome! Please feel free to submit pull requests or open issues to discuss potential improvements or additions.
 
-## Disclaimer
-
-These tools are provided for educational and informational purposes only. Always use security tools responsibly and with proper authorization.
