@@ -1,4 +1,4 @@
-# Wireshark Beginner's Guide
+# Wireshark Guide
 
 ## Introduction to Wireshark
 
