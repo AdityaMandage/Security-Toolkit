@@ -7,16 +7,11 @@ Our goal is to create a comprehensive collection of security tools, scripts to a
 ### Current Repo Structure
 
 ```
-Guides
-  |....
-
-Tools and scripts
-  |....
-
-Resources
-  |.....
+Tools and scripts/
+  └──
+Guides and Resources/
+  └──
 ```
-
 ## Contributing
 
 Contributions to any of the tools or ideas for new tools, guides and resources for all levels related to cybersecurity and it's any domain are welcome! Please feel free to submit pull requests or open issues to discuss potential improvements or additions.
