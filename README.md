@@ -8,9 +8,10 @@ Our goal is to create a comprehensive collection of security tools, scripts to a
 
 ```
 Tools and scripts/
-  └──
+  └── Email Header Analyzer
+
 Guides and Resources/
-  └──
+  └── TryHackMe Resources (Free)
 ```
 ## Contributing
 
