@@ -17,17 +17,13 @@ Inspired by [rng70/TryHackMe-Roadmap](https://github.com/rng70/TryHackMe-Roadmap
 #### **# Visit below link and use directly [Go-to-link](https://adityamandage.github.io/Security-Toolkit/Guides%20and%20Resources/TryHackMe%20Rooms%20(Free)/)**
 
 ```
-https://adityamandage.github.io/Security-Toolkit/Resources/TryHackMe%20Rooms%20(Free)/
+https://adityamandage.github.io/Security-Toolkit/Guides%20and%20Resources/TryHackMe%20Rooms%20(Free)/
 ```
 
 
 #### **# If you want to set it up locally**
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/AdityaMandage/tryhackme-roadmap.git
-    cd tryhackme-roadmap
-    ```
+1. Just Download the `index.html`.
 
 2. **Open the HTML File**:
     Simply open `index.html` in your web browser to start using the interactive checklist.
